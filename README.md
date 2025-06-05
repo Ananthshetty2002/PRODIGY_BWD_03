@@ -1,7 +1,3 @@
-
-
-### ✅ `README.md`
-
 ```markdown
 # FastAPI JWT Authentication Example
 
